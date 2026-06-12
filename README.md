@@ -22,9 +22,9 @@ Passionate about learning programming, web development, and problem-solving
 
 ## 🌐 Connect with Me
 
-* 🔗 LinkedIn: [linkedin.com/in/talada-gowtham-65b2a6368](https://www.linkedin.com/in/talada-gowtham-65b2a6368/)
-* 💻 GitHub: [[Add GitHub Profile](https://github.com/Talada-Gowtham)]
-* 📫 Email: [taladagowtham@gmail.com]
+* 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/talada-gowtham-65b2a6368/)
+* 💻 GitHub: [Github](https://github.com/Talada-Gowtham)
+* 📫 Email: taladagowtham@gmail.com
 
 ---
 
