@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [Brother's Name]</h1>
+<h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
 
-<!--
-**Talada-Gowtham/Talada-Gowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about learning programming, web development, and problem-solving
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NSRIET (2022–2026)**
+* 📚 Currently in **4th Year**
+* 🌱 Learning and exploring **Python, Object-Oriented Programming (OOP), DBMS, and Web Development**
+* 💻 Interested in **Software Development, Web Technologies, and Problem Solving**
+* 🚀 Continuously improving my coding and development skills through hands-on practice
+* 🤝 Open to internships, learning opportunities, and collaborative projects
+* 💬 Ask me about **Python basics, OOP concepts, DBMS fundamentals, and Web Development**
+* ⚡ Fun fact: **I enjoy learning new technologies and building projects to strengthen my skills**
+
+---
+
+## 🌐 Connect with Me
+
+* 🔗 LinkedIn: [Add LinkedIn Profile]
+* 💻 GitHub: [Add GitHub Profile]
+* 📫 Email: [Add Email Address]
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Python Programming
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* HTML, CSS, and JavaScript
+* SQL and MySQL
+* Git & GitHub
+* Data Structures and Algorithms
+
+---
+
+## 🎯 Career Objective
+
+Aspiring software developer seeking opportunities to apply technical knowledge, enhance problem-solving abilities, and gain practical experience in software development and modern web technologies.
+
+---
+
+## 🚀 Academic & Personal Projects
+
+### 💻 Python Practice Projects
+
+* Developing beginner-friendly Python applications
+* Learning problem-solving through coding exercises
+* Exploring file handling, functions, and OOP concepts
+
+### 🌐 Web Development Projects
+
+* Building responsive web pages using HTML, CSS, and JavaScript
+* Learning frontend development concepts and best practices
+* Exploring modern web technologies
+
+*(More projects coming soon as I continue learning and building.)*
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
