@@ -31,7 +31,7 @@ Passionate about learning programming, web development, and problem-solving
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Passionate about learning programming, web development, and problem-solving
 * Object-Oriented Programming (OOP)
 * Database Management Systems (DBMS)
 * HTML, CSS, and JavaScript
-* SQL and MySQL
+* SQL
 * Git & GitHub
 * Data Structures and Algorithms
 
