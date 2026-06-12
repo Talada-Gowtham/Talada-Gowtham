@@ -11,7 +11,7 @@ Passionate about learning programming, web development, and problem-solving
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NSRIET (2023–2027)**
 * 📚 Currently in **4th Year**
-* 🌱 Learning and exploring **Python, Data Structures and Algorithms, Object-Oriented Programming (OOP), DBMS, and Web Development**
+* 🌱 Learning and exploring **Python, Data Structures & Algorithms, Object-Oriented Programming (OOP), and Web Development**
 * 💻 Interested in **Software Development, Web Technologies, and Problem Solving**
 * 🚀 Continuously improving my coding and development skills through hands-on practice
 * 🤝 Open to internships, learning opportunities, and collaborative projects
