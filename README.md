@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Brother's Name]</h1>
+<h1 align="center">Hi 👋, I'm Gowtham Raj Talada </h1>
 <h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -9,9 +9,9 @@ Passionate about learning programming, web development, and problem-solving
 
 ## 🙋‍♂️ About Me
 
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NSRIET (2022–2026)**
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NSRIET (2023–2027)**
 * 📚 Currently in **4th Year**
-* 🌱 Learning and exploring **Python, Object-Oriented Programming (OOP), DBMS, and Web Development**
+* 🌱 Learning and exploring **Python, Data Structures and Algorithms, Object-Oriented Programming (OOP), DBMS, and Web Development**
 * 💻 Interested in **Software Development, Web Technologies, and Problem Solving**
 * 🚀 Continuously improving my coding and development skills through hands-on practice
 * 🤝 Open to internships, learning opportunities, and collaborative projects
@@ -22,9 +22,9 @@ Passionate about learning programming, web development, and problem-solving
 
 ## 🌐 Connect with Me
 
-* 🔗 LinkedIn: [Add LinkedIn Profile]
-* 💻 GitHub: [Add GitHub Profile]
-* 📫 Email: [Add Email Address]
+* 🔗 LinkedIn: [linkedin.com/in/talada-gowtham-65b2a6368](https://www.linkedin.com/in/talada-gowtham-65b2a6368/)
+* 💻 GitHub: [[Add GitHub Profile](https://github.com/Talada-Gowtham)]
+* 📫 Email: [taladagowtham@gmail.com]
 
 ---
 
