@@ -31,7 +31,8 @@ Passionate about learning programming and problem-solving
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="50"/>
 </p>
 
 ---
@@ -41,7 +42,6 @@ Passionate about learning programming and problem-solving
 * Python Programming
 * Object-Oriented Programming (OOP)
 * Database Management Systems (DBMS)
-* HTML, CSS, and JavaScript
 * SQL
 * Git & GitHub
 * Data Structures and Algorithms
@@ -50,25 +50,25 @@ Passionate about learning programming and problem-solving
 
 ## 🎯 Career Objective
 
-Aspiring software developer seeking opportunities to apply technical knowledge, enhance problem-solving abilities, and gain practical experience in software development and modern web technologies.
+Aspiring software developer seeking opportunities to apply technical knowledge, enhance problem-solving abilities, and gain practical experience in software development.
 
 ---
 
 ## 🚀 Academic & Personal Projects
 
-### 💻 Python Practice Projects
+### 🔤 Spell Checker and Suggestion App
 
-* Developing beginner-friendly Python applications
-* Learning problem-solving through coding exercises
-* Exploring file handling, functions, and OOP concepts
+* Developed a Python-based spell checker application using Information Retrieval concepts
+* Generated and refined spelling suggestions using N-Gram and ranking techniques
+* Implemented a user rating and feedback system with automatic review storage
+* Explored file handling, string processing, and GUI development using Tkinter
 
-### 🌐 Web Development Projects
+### 📊 Social Media Influencer Engagement Analysis
 
-* Building responsive web pages using HTML, CSS, and JavaScript
-* Learning frontend development concepts and best practices
-* Exploring modern web technologies
-
-*(More projects coming soon as I continue learning and building.)*
+* Analyzed TikTok influencer data using Python, Pandas, and Excel
+* Cleaned and transformed raw data by handling missing values and formatting issues
+* Calculated engagement rates and identified the Top 10 influencers based on audience engagement
+* Created Pivot Tables and visualizations to derive meaningful business insights
 
 ---
 
