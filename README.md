@@ -15,7 +15,7 @@ Passionate about learning programming and problem-solving
 * 💻 Interested in **Software Development and Problem Solving**
 * 🚀 Continuously improving my coding and development skills through hands-on practice
 * 🤝 Open to internships, learning opportunities, and collaborative projects
-* 💬 Ask me about **Python basics, OOP concepts, DBMS fundamentals, and Web Development**
+* 💬 Ask me about **Python basics, OOP concepts, DBMS fundamentals**
 * ⚡ Fun fact: **I enjoy learning new technologies and building projects to strengthen my skills**
 
 ---
