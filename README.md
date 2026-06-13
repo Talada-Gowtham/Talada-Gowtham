@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-Passionate about learning programming, web development, and problem-solving
+Passionate about learning programming and problem-solving
 </p>
 
 ---
@@ -11,8 +11,8 @@ Passionate about learning programming, web development, and problem-solving
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **NSRIET (2023–2027)**
 * 📚 Currently in **4th Year**
-* 🌱 Learning and exploring **Python, Data Structures & Algorithms, Object-Oriented Programming (OOP), and Web Development**
-* 💻 Interested in **Software Development, Web Technologies, and Problem Solving**
+* 🌱 Learning and exploring **Python, Data Structures & Algorithms, and Object-Oriented Programming (OOP)**
+* 💻 Interested in **Software Development and Problem Solving**
 * 🚀 Continuously improving my coding and development skills through hands-on practice
 * 🤝 Open to internships, learning opportunities, and collaborative projects
 * 💬 Ask me about **Python basics, OOP concepts, DBMS fundamentals, and Web Development**
